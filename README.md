@@ -58,11 +58,12 @@ Millions of households in Africa use small solar systems but:
 ```mermaid
 flowchart LR
     A[Solar Panel + Battery] --> B[ESP32 + Sensors]
-    B --> C[Relay + Bulb 💡]
+    B --> C[Relay + Bulb]
     B --> D[Backend - Node.js + Express]
-    D --> E[Firebase Realtime DB 🗄️]
+    D --> E[Firebase Realtime DB]
     D --> F[Africa's Talking APIs]
-    F --> G[User Phone 📱 (SMS/USSD/Airtime)]
+    F --> G[User Phone (SMS/USSD/Airtime)]
     G --> F
+
 
 # Africa-s-Talking-Solarpay-Hackathon
