@@ -86,7 +86,7 @@ flowchart LR
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/solarpay-hackathon.git
+git clone https://github.com/Cheptoo-dev/Africa's-Talking-Solarpay-Hackathon
 cd solarpay-hackathon
 ```
 
